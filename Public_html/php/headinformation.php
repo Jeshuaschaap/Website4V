@@ -1,6 +1,6 @@
 <?php
 //--------------------------------// CUSTOMIZABLE VARIABLES //--------------------------------//
-define("ROOT", "http://localhost/jeshua/Website4V/Public_html/");                                        // Define the Root of your server
+define("ROOT", "https://informatica.ghlyceum.nl/users/37007/");                                        // Define the Root of your server
 
 define("websiteName", "Jeshua");                                                     // Define your name
 define("websiteNameConnector", "-" );                                               // And connector that connects the site name, and the page name
